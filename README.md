@@ -14,7 +14,7 @@ Welcome to the JuliaCode repository under the GitHub profile of [DylanJRoberts](
    - Install the Plots.jl library by running `] add Plots` in the Julia REPL.
    - Open a Julia REPL and run the script:
      ```julia
-     include("plot_example.jl")
+     include("plot.jl")
      ```
 
 3. **Explore and Customize:**
